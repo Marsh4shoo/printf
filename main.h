@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+i#ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
 #include <stdio.h>
@@ -20,6 +20,7 @@
 
 /**
  * struct fmt - Struct op
+ * By Marshal Zvinoira
  *
  * @fmt: The format.
  * @fn: The function associated.
